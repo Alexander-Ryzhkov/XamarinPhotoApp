@@ -29,6 +29,7 @@ namespace OneClickPhoto
 
         public static void UpdateAppDirectories()
         {
+            //Update Camera Activity View 
             appDirectories = Directory.GetDirectories(appFolderPath);
         }
 
