@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="AddNewSession">Add new session</string>
+    <string name="ApplicationName">OneClickPhoto</string>
+  <string-array name="menu">
+    <item>Rename</item>
+    <item>Delete</item>
+    <item>Continue</item>
+  </string-array>
+</resources>
